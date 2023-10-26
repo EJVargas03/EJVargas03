@@ -7,7 +7,7 @@
   - [SQL Injection](https://drive.google.com/drive/u/1/folders/1peMfOviMKbyLujx7NTHwE_MlSILx-eU5)
   - [Command Injection](https://drive.google.com/drive/u/1/folders/1peMfOviMKbyLujx7NTHwE_MlSILx-eU5)
 - <b>Labs</b>
-  - [Configuring Firewall Interfaces with pfSense](https://drive.google.com/drive/u/1/folders/1cyLXa2Bfg-krA862obnEdG5ivlAKT60h)
+  - [Configuring Firewall Interfaces with pfSense](https://drive.google.com/drive/u/1/folders/108Fo0vBGeecA5vsDMUmSWzKt9unHGLUR)
 - <b>Forensic Labs</b>
   - [Conducting an Incident Response Investigation](https://drive.google.com/drive/u/1/folders/1VQCDY4ZQOWma9DFiGvI6BUCiJA9-W1Mb)
 - <b>Security Assmt. and Auditing</b>
